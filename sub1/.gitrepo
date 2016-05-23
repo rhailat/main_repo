@@ -6,6 +6,6 @@
 [subrepo]
 	remote = https://github.com/rhailat/sub_repo1.git
 	branch = master
-	commit = 8db55da9519950b454d5f7a341d20a01fceddeeb
-	parent = 16d76bdc29db5bde11f11df1757f92e1351e0d2b
+	commit = 9235508efebfce9283418162343ef3fea4e484b3
+	parent = fe23d03abcae9a972c9575cd3b7cad00f4ace55f
 	cmdver = 0.3.0
